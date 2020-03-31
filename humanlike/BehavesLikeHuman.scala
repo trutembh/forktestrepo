@@ -44,7 +44,7 @@ object BehavesLikeHumanSyntax {
     }
 
     def speakNew(): Unit = {
-      println(s"hi")
+      println(s"hi how are you")
     }
   }
 }
